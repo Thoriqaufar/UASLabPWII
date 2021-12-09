@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:uas="http://www.uaslabpwii/fake-namespace/">
+
+    <rdf:Description
+        rdf:about="https://www.ducati.com/">
+        <dc:title>DUCATI V4S</dc:title>
+        <dc:creator>Ducati</dc:creator>
+        <uas:price>£25,200</uas:price>
+        <uas:capacity>1103 cc</uas:capacity>
+        <uas:power>157 kW</uas:power>
+        <uas:topspeed>322 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/3467338/MY20_DUCATI_PANIGALE%20V4_02_UC101537_High.jpg?width=640</uas:image>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://www.bmw-motorrad.com/">
+        <dc:title>BMW S1000RR</dc:title>
+        <dc:creator>BMW</dc:creator>
+        <uas:price>£15,590</uas:price>
+        <uas:capacity>999 cc</uas:capacity>
+        <uas:power>152 kW</uas:power>
+        <uas:topspeed>298 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/5354698/P90427257-highRes.jpg?width=640</uas:image>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://www.astra-honda.com/">
+        <dc:title>HONDA FIREBLADE SP</dc:title>
+        <dc:creator>Honda Astra Motor</dc:creator>
+        <uas:price>£23,500</uas:price>
+        <uas:capacity>1000cc</uas:capacity>
+        <uas:power>160 kW</uas:power>
+        <uas:topspeed>298 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/5864431/351947_22YM_HONDA_CBR1000RR-R_FIREBLADE_SP_30TH_ANNIVERSARY.jpg?width=640</uas:image>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://global.yamaha-motor.com/">
+        <dc:title>YAMAHA YZF-R1M</dc:title>
+        <dc:creator>Yamaha</dc:creator>
+        <uas:price>£22,600</uas:price>
+        <uas:capacity>998 cc</uas:capacity>
+        <uas:power>147 kW</uas:power>
+        <uas:topspeed>298 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/5635076/2022_YAM_YZF1000R1SPL_EU_BWM2_STU_001_03_preview.jpg?width=640</uas:image>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://www.kawasaki.com/">
+        <dc:title>KAWASAKI NINJA H2</dc:title>
+        <dc:creator>Kawasaki</dc:creator>
+        <uas:price>£26,000</uas:price>
+        <uas:capacity>998 cc</uas:capacity>
+        <uas:power>147 kW</uas:power>
+        <uas:topspeed>298 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/1396846/2018-ninja-h2-carbon-02.jpg?width=640</uas:image>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://www.globalsuzuki.com/motorcycle/">
+        <dc:title>SUZUKI GSX-R1000R</dc:title>
+        <dc:creator>Suzuki</dc:creator>
+        <uas:price>£17,000</uas:price>
+        <uas:capacity>1000 cc</uas:capacity>
+        <uas:power>148 kW</uas:power>
+        <uas:topspeed>298 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/1903478/2018%20main%20blue%20race%20rep.jpg?width=640</uas:image>
+    </rdf:Description>
+
+    <rdf:Description
+        rdf:about="https://www.kawasaki.com/">
+        <dc:title>KAWASAKI ZX-10R</dc:title>
+        <dc:creator>Kawasaki</dc:creator>
+        <uas:price>£15,800</uas:price>
+        <uas:capacity>998 cc</uas:capacity>
+        <uas:power>148 kW</uas:power>
+        <uas:topspeed>298 km/h</uas:topspeed>
+        <uas:image>https://www.thebikemarket.co.uk/media/4699943/2021%20main.jpg?width=640</uas:image>
+    </rdf:Description>
+</rdf:RDF>
