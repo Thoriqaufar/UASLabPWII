@@ -6,8 +6,7 @@
 
     <rdf:Description
         rdf:about="https://www.ducati.com/">
-        <dc:title>DUCATI 
-		V4S</dc:title>
+        <dc:title>DUCATI test V4S</dc:title>
         <dc:creator>Ducati</dc:creator>
         <uas:price>£25,200</uas:price>
         <uas:capacity>1103 cc</uas:capacity>
